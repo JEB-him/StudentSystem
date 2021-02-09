@@ -4,5 +4,8 @@
 package com.test
 public class Student
 {
-    public 
+    public int age;
+    public String name;
+    public static tmpID;
+    public ID;
 }
