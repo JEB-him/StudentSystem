@@ -1,2 +1,0 @@
-# StudentSystem
-oh
